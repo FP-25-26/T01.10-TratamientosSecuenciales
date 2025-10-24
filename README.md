@@ -1,6 +1,7 @@
 # T01.10 -TratamientosSecuenciales
 
 Autora: Toñi Reina
+
 Última modificación: 24/10/2025
 
 El objetivo de este proyecto es trabajar los esquemas de los distintos tratamientos secuenciales vistos en la clase de teoría: existe, para todo, selección tanto a lista como a conjunto, contador, media , máximo/mínimo.
